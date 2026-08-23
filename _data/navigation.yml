@@ -9,19 +9,11 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: https://scholar.google.com/citations?user=ym01Oo8AAAAJ&hl=en
     
   - title: "CV"
     url: /files/2026 08 Jonathan Chia CV.docx
     
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+
